@@ -1,0 +1,5 @@
+org.springframework.context.ApplicationContextInitializer=\
+com.enjoy.boot.EnjoyApplicationContextInitializer
+
+org.springframework.boot.SpringApplicationRunListener=\
+com.enjoy.boot.EnjoySpringApplicationRunListener
