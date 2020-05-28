@@ -8,7 +8,7 @@
     </appender>
 
     <!-- logback为java中的包 -->
-    <logger name="com.enjoy" level="ERROR"/>
+    <logger name="com.enjoy" level="INFO"/>
 
     <root level="INFO">
         <appender-ref ref="STDOUT" />
